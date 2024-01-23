@@ -1,5 +1,6 @@
-### 안녕하세요 만나서 반갑습니다 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20안녕하세요%20%20&height=200&fontSize=90&fontColor=ffffff)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
 
 <!--
 **KMJ90/KMJ90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
